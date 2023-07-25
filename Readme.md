@@ -1,34 +1,33 @@
-<img src="Document/0.jpg" alt="The slides we need to edit" width="7324" />
-<img src="Document/1.JPG" alt="The slides we need to edit" width="7324" />
-<img src="Document/2.JPG" alt="The slides we need to edit" width="7324" />
-<img src="Document/3.JPG" alt="The slides we need to edit" width="7324" />
-<img src="Document/4.JPG" alt="The slides we need to edit" width="7324" />
-<img src="Document/5.JPG" alt="The slides we need to edit" width="7324" />
-<img src="Document/6.JPG" alt="The slides we need to edit" width="7324" />
-<img src="Document/7.JPG" alt="The slides we need to edit" width="7324" />
-<img src="Document/8.JPG" alt="The slides we need to edit" width="7324" />
-<img src="Document/9.JPG" alt="The slides we need to edit" width="7324" />
-<img src="Document/10.JPG" alt="The slides we need to edit" width="7324" />
-<img src="Document/11.JPG" alt="The slides we need to edit" width="7324" />
-<img src="Document/12.JPG" alt="The slides we need to edit" width="7324" />
-<img src="Document/13.JPG" alt="The slides we need to edit" width="7324" />
-<img src="Document/14.JPG" alt="The slides we need to edit" width="7324" />
-<img src="Document/15.JPG" alt="The slides we need to edit" width="7324" />
-<img src="Document/16.JPG" alt="The slides we need to edit" width="7324" />
-<img src="Document/17.JPG" alt="The slides we need to edit" width="7324" />
-<img src="Document/18.JPG" alt="The slides we need to edit" width="7324" />
-<img src="Document/19.JPG" alt="The slides we need to edit" width="7324" />
-<img src="Document/20.JPG" alt="The slides we need to edit" width="7324" />
-<img src="Document/21.JPG" alt="The slides we need to edit" width="7324" />
-<img src="Document/22.JPG" alt="The slides we need to edit" width="7324" />
-<img src="Document/23.JPG" alt="The slides we need to edit" width="7324" />
-<img src="Document/24.JPG" alt="The slides we need to edit" width="7324" />
-<img src="Document/25.JPG" alt="The slides we need to edit" width="7324" />
-<img src="Document/26.JPG" alt="The slides we need to edit" width="7324" />
-<img src="Document/27.JPG" alt="The slides we need to edit" width="7324" />
-<img src="Document/28.JPG" alt="The slides we need to edit" width="7324" />
-<img src="Document/29.JPG" alt="The slides we need to edit" width="7324" />
-<img src="Document/30.jpg" alt="The slides we need to edit" width="7324" />
-<img src="Document/31.jpg" alt="The slides we need to edit" width="7324" />
-<img src="Document/32.JPG" alt="The slides we need to edit" width="7324" />
-<img src="Document/33.JPG" alt="The slides we need to edit" width="7324" />
+<img src="Document/0.jpg" width="7324" />
+<img src="Document/1.JPG" width="7324" />
+<img src="Document/2.JPG" width="7324" />
+<img src="Document/3.JPG" width="7324" />
+<img src="Document/4.JPG" width="7324" />
+<img src="Document/5.JPG" width="7324" />
+<img src="Document/6.JPG" width="7324" />
+<img src="Document/7.JPG" width="7324" />
+<img src="Document/10.JPG" width="7324" />
+<img src="Document/11.JPG" width="7324" />
+<img src="Document/12.JPG" width="7324" />
+<img src="Document/13.JPG" width="7324" />
+<img src="Document/14.JPG" width="7324" />
+<img src="Document/15.JPG" width="7324" />
+<img src="Document/16.JPG" width="7324" />
+<img src="Document/17.JPG" width="7324" />
+<img src="Document/18.JPG" width="7324" />
+<img src="Document/19.JPG" width="7324" />
+<img src="Document/20.JPG" width="7324" />
+<img src="Document/21.JPG" width="7324" />
+<img src="Document/22.JPG" width="7324" />
+<img src="Document/23.JPG" width="7324" />
+<img src="Document/24.JPG" width="7324" />
+<img src="Document/25.JPG" width="7324" />
+<img src="Document/26.JPG" width="7324" />
+<img src="Document/27.JPG" width="7324" />
+<img src="Document/28.JPG" width="7324" />
+<img src="Document/29.JPG" width="7324" />
+<img src="Document/30.png" width="7324" />
+<img src="Document/31.png" width="7324" />
+<img src="Document/32.png"/>
+<img src="Document/33.JPG" width="7324" />
+<img src="Document/34.JPG" width="7324" />
