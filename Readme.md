@@ -28,8 +28,7 @@
 <img src="Document/29.JPG" width="7324" />
 <img src="Document/30.png" width="7324" />
 <img src="Document/31.png" width="7324" />
-<img src="Document/32.png"/>
+<img src="Document/32.gif"/>
 <img src="Document/33.JPG" width="7324" />
 <img src="Document/34.JPG" width="7324" />
 <img src="Document/35.gif" />
-<img src="Document/36.mp4" />
