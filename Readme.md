@@ -29,8 +29,6 @@
 <img src="Document/30.png" width="7324" />
 <img src="Document/31.png" width="7324" />
 <img src="Document/32.gif" width="7324"/>
-<img src="Document/33.JPG" width="7324" />
-<img src="Document/34.JPG" width="7324" />
 <img src="Document/35.gif" />
- Refer for code ralted to unity rendering <a href="https://github.com/skmidhun09/hololens_mrtk_3d_rendering_unity.git" target="_blank">Link</a>
+ Refer for code related to unity rendering <a href="https://github.com/skmidhun09/hololens_mrtk_3d_rendering_unity.git" target="_blank">Link</a>
 
