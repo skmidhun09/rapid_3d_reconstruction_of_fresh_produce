@@ -25,12 +25,13 @@
 <img src="Document/26.JPG" width="7324" />
 <img src="Document/27.JPG" width="7324" />
 <img src="Document/28.JPG" width="7324" />
+<img src="Document/30.png" width="7324" />
+<img src="Document/31.png" width="7324" />
 <img src="Document/29.JPG" width="7324" />
 <img src="Document/36.JPG" width="7324" />
 <img src="Document/37.JPG" width="7324" />
  Refer for code related to unity rendering <a href="https://github.com/skmidhun09/hololens_mrtk_3d_rendering_unity.git" target="_blank">Link</a>
 <img src="Document/32.gif" width="7324"/>
 <img src="Document/35.gif" />
-<img src="Document/30.png" width="7324" />
-<img src="Document/31.png" width="7324" />
+
 
