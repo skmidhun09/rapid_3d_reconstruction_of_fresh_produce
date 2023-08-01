@@ -8,7 +8,7 @@
 <img src="Document/7.JPG" width="7324" />
 <img src="Document/10.JPG" width="7324" />
 <img src="Document/11.JPG" width="7324" />
-<img src="Document/12.JPG" width="7324" />
+<img src="Document/12.jpg" width="7324" />
 <img src="Document/13.JPG" width="7324" />
 <img src="Document/14.JPG" width="7324" />
 <img src="Document/15.JPG" width="7324" />
@@ -28,8 +28,8 @@
 <img src="Document/30.png" width="7324" />
 <img src="Document/31.png" width="7324" />
 <img src="Document/29.JPG" width="7324" />
-<img src="Document/36.JPG" width="7324" />
-<img src="Document/37.JPG" width="7324" />
+<img src="Document/36.jpg" width="7324" />
+<img src="Document/37.jpg" width="7324" />
  Refer for code related to unity rendering <a href="https://github.com/skmidhun09/hololens_mrtk_3d_rendering_unity.git" target="_blank">Link</a>
 <img src="Document/32.gif" width="7324"/>
 <img src="Document/35.gif" />
