@@ -30,6 +30,8 @@
 <img src="Document/29.JPG" width="7324" />
 <img src="Document/36.jpg" width="7324" />
 <img src="Document/37.jpg" width="7324" />
+<img src="Document/39.jpg" width="7324" />
+<img src="Document/38.jpg" width="7324" />
  Refer for code related to unity rendering <a href="https://github.com/skmidhun09/hololens_mrtk_3d_rendering_unity.git" target="_blank">Link</a>
 <img src="Document/32.gif" width="7324"/>
 <img src="Document/35.gif" />
